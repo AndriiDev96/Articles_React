@@ -1,0 +1,7 @@
+.inner-list{
+  padding: 0;
+}
+
+.inner-list li {
+  list-style: none;
+}
